@@ -31,3 +31,8 @@ http://www.youtube.com/watch?v=HBbzYKMfx5Y
 DISCLAIMER:
 
 This project is intended for non-commercial educational purposes.
+
+# Build
+
+/usr/bin/python
+execfile
